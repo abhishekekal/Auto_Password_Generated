@@ -2,6 +2,7 @@
 
 A simple web-based password generator built with HTML, CSS, and JavaScript that creates secure, random passwords with customizable character types.
 
+
 ## Features
 
 - Generates 12-character random passwords
@@ -13,6 +14,10 @@ A simple web-based password generator built with HTML, CSS, and JavaScript that 
 - Clean, responsive UI
 - Generates a password automatically on page load
 - One-click password regeneration
+
+## Demo Link
+
+https://abhishekekal.github.io/Auto_Password_Generated/
 
  
 ## Screenshots
